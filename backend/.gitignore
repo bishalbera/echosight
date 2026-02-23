@@ -1,0 +1,24 @@
+# Environment
+.env
+
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# uv
+uv.lock
+
+# YOLO model weights
+*.pt
+*.onnx
+
+# Logs
+*.log
+
+# OS
+.DS_Store
