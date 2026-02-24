@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Real-time social intelligence for the visually impaired"
 requires-python = ">=3.12"
 dependencies = [
-    "vision-agents[getstream,ultralytics]",
+    "vision-agents[getstream,ultralytics,gemini]",
     "python-dotenv",
 ]
 
